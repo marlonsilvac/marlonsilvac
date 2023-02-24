@@ -3,7 +3,9 @@
 </div>  
   
 
-### Eu me chamo Marlon Costa e sou aficionado por tecnologia desde sempre. E acreditando no poder transformador desta ferramenta na vida das pessoas, decidi iniciar minha transição de carreira para a área de desenvolvimento de software.  
+### Eu me chamo Marlon Costa e sou aficionado por tecnologia desde sempre. 
+
+E acreditando no poder transformador desta ferramenta na vida das pessoas, decidi deixar para trás a minha área de formação (engenharia ambiental/segurança do trabalho) e iniciar minha transição de carreira para a área de desenvolvimento web fullstack.
   
 
 - 📚 Estou no curso de desenvolvedor Full Stack da Cubos Academy, com previsão de término para Agosto/2023  
