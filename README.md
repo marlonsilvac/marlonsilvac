@@ -3,7 +3,7 @@
 </div>  
   
 
-### Eu me chamo Marlon Costa e sou aficionado por tecnologia desde sempre. 
+### Eu me chamo Marlon Costa e sou aficionado por tecnologia!
 
 E acreditando no poder transformador desta ferramenta na vida das pessoas, decidi deixar para trás a minha área de formação (engenharia ambiental/segurança do trabalho) e iniciar minha transição de carreira para a área de desenvolvimento web fullstack.
   
